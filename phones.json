@@ -1,0 +1,125 @@
+[
+    {
+        "id":"23",
+        "image": "https://i.ibb.co/YB1dXHW/jersey.jpg",
+        "title": "BD World Cup Cricket Jersey",
+        "description": "The vivid color combination of green and red was carefully used to create the new Bangladesh ODI Cricket World Cup Jersey 2023.",
+        "price": 220,
+        "credit":  3,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"24",
+        "image": "https://i.ibb.co/VQh0Wc8/toujer.webp",
+        "title": "Cricket Trouser For Men",
+        "description": "Bangladesh Cricket team players use to wear this type of trousers which is very comfortable for any kind of sport.",
+        "price":  180,
+        "credit": 4,
+        "button": "See Details",
+        "button2": "BUY NOW"
+       
+    },
+    {
+        "id":"25",
+        "image": "https://i.ibb.co/74Gk1y3/gloves.jpg",
+        "title": "Batting Gloves",
+        "description": "Cricket batting gloves are an essential part of a batsman's armoury, and the look, feel and flexibility of a pair of batting gloves cannot be underestimated.",
+        "price": 230,
+        "credit": 5,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"26",
+        "image": "https://i.ibb.co/1qm786T/thie-pad.webp",
+        "title": "CRICKET THIGH GUARDS",
+        "description": "Cricket thigh pad play an important role in protecting the cricket batsman.They protect your thighs from the impact of hardball especially against bowlers",
+        "price": 180,
+        "credit": 4,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"27",
+        "image": "https://i.ibb.co/MGsMfbX/shoes.jpg",
+        "title": "Pro Ase Cricket Shoes",
+        "description": "Comfortable Cricket Shoe for occasional cricket practice with good cushioning.Provides good cushioning while playing on hard ground.",
+        "price": 200,
+        "credit": 3,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"28",
+        "image": "https://i.ibb.co/c6hHLHC/1182-45787-cap-sports-sportz-design-94368-0-crop-c0-5-0-5-400x500-70.jpg",
+     
+        "title": "Bangladesh Cricket Team Cap",
+        "description": "The jersey has a V-neck collar. Various details worked into the fabric giving the red and green shirt a fresh and realistic look.",
+        "price": 130,
+        "credit": 4,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"29",
+        "image": "https://i.ibb.co/wZtF4nj/sunglass.webp",
+        "title": "Sports Sunglasses For Cricket",
+        "description": "Polarized Sports Sunglasses Cycling Sun Glasses for Men Women with 5 Interchangeable Lenes for Running Baseball Golf Driving ",
+        "price":  100,
+        "credit": 5,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"30",
+        "image": "https://i.ibb.co/xDXDzpf/helmat.webp",
+        "title": "Cricket Helmet",
+        "description": "The cricket helmet is a crucial safety equipment used to protect the player's head from any injury resulted from being hit by the ball.",
+        "price": 230,
+        "credit": 5,
+        "button": "See Details",
+        "button2": "BUY NOW"
+
+    },
+    {
+        "id":"31",
+        "image": "https://i.ibb.co/st8WHW9/bat.jpg",
+        "title": "Cricket Bat",
+        "description": "Another name for a bat can also be called a stick or willow. Some of the oldest bats in the sport can be dated back to 1729.",
+        "price": 400,
+        "credit": 3,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"32",
+        "image": "https://i.ibb.co/PCkcJT6/ball.png",
+        "title": "Cricket Ball",
+        "description": "A cricket ball is a hard, solid ball used to play cricket. A cricket ball consists of a cork core wound with string.",
+        "price": 140,
+        "credit": 3,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"33",
+        "image": "https://i.ibb.co/cLyB17D/51bsb-Nzr-Ae-L.jpg",
+        "title": "LED Stumps",
+        "description": "In cricket, the stumps are the three vertical posts that support the bails and form the wicket.Stumping stumped is a method of dismissing a batsman.",
+        "price": 350,
+        "credit": 3,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    },
+    {
+        "id":"34",
+        "image": "https://i.ibb.co/7pJGgJq/bag.jpg",
+        "title": "Cricket Bag",
+        "description": "Sportsmen and aspiring cricketers require a spacious cricket bag.Items such as cricket balls, bats, gloves, helmet, towels,water bottles, need to fit in this bag.",
+        "price": 500,
+        "credit": 3,
+        "button": "See Details",
+        "button2": "BUY NOW"
+    }
+]
